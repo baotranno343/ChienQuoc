@@ -1,0 +1,6 @@
+2021-10-06 21:04:24 : BangChu (5) đã bán 200 Kim Nguyên Bảo
+2021-10-06 21:04:52 : BangChu (5) đã bán 50 Kim Nguyên Bảo
+2021-10-06 21:05:01 : BangChu (5) đã bán 100 Kim Nguyên Bảo
+2021-10-06 21:05:24 : BangChu (5) đã mua 200 Kim Nguyên Bảo
+2021-10-06 21:05:58 : BangChu (5) đã rút 1000000 Ngân Lượng
+2021-10-06 21:07:50 : BangChu (5) đã hủy bỏ và nhận lại 52 Kim nguyên bảo ký gửi 

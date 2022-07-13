@@ -1,0 +1,454 @@
+	############################## giai đoạn thứ nhất nêu lên ##############################
+
+	1: HIY Ở trong trò chơi gặp được một ít Ác Bá chắn đường thì phải làm sao? Không cần lo lắng, ấn vào HIR 'F11' HIY thử xem ? ~
+
+	1: HIY Lưu ý đã tới đúng chỗ chưa? Bản đồ nhỏ phía trên góc phái trên màn hình biểu hiện đúng là bạn đang ở trên bản đồ cùng với tên và HIR toạ độ HIY.
+
+	1: HIY Bạn thấy trên bản đồ nhỏ góc phải có HIR cái nút HIY không? Nó có thể khiến bản đồ nhỏ mờ dần hoặc ẩn đi.
+
+	1: HIY Bạn không hiểu một số vấn đề trong trò chơi? Hay là không biết NPC ở chỗ nào? Thử mở bảng bạn bè nói chuyện với Vạn Sự Thông hỏi một chút xem ~
+
+	1: HIY Ở trong trò chơi gặp được một ít Ác Bá chắn đường thì phải làm sao? Không cần lo lắng, ấn vào HIR 'F11' HIY thử xem ? ~
+
+	1: HIY Ở bên trái khung chat có một HIR Kênh Chat hiện tại và HIY các kênh khác, bấm vào để lựa chọn kênh muốn chat.
+
+	1: HIY Trong trò chơi F1~F10 là những ô chứa HIR Công Năng HIY, Có thể kéo các vật phẩm hoặc kĩ năng vào đó để dễ sử dụng.
+
+	1: HIY Góc dưới bên phải màn hình có một nút có rất nhiều công năng, hãy nghịch thử xem.
+
+	1: HIY Bấm phím HIR Alt+W HIY nhìn xem, như thế nào ? Hiện rất rõ ràng những trạng thái của bạn phải không ?
+
+	1: HIY Sử dụng chuột phải kích vào nhân vật, sau đó trên ảnh chân dung của nhân vật đó sử dụng chuột phải, nhấp vào Mời Vào Nhóm là có thể xây dựng đội Nhóm rồi ~
+
+	1: HIY Khi thêm hảo hữu trở thành bạn bè, mở bảng bạn bè là có thể liên lạc với họ rồi .
+
+	1: HIY Khi muốn giao dịch bấm phím HIR Alt+X HIY, di chuyển con chuột đến nhân vật cần giao dịch và bấm chuột trái là có thể giao dịch rồi.
+
+	1: HIY HIR Bấm tổ hợp phím HIY Cho( Alt+G) có thể tặng vật phẩm trên người cho người chơi khác và NPC, khi sử dụng lệnh này phải chú ý đến vật phẩm muốn tặng.
+
+	1: HIY Không nhớ mình đang làm nhiệm vụ gì sao? Bấm tổ hợp phím HIR Alt+Q HIY thử xem, thế nào? Có nhìn thấy nhiệm vụ đang làm chưa.
+
+	1: HIY Các nút bấm chuột trái vào người sẽ di chuyển.
+
+	1: HIY Nhấp chuột thời gian lâu dài để di chuyển cảm thấy mỏi? Chỉ cần nhấp giữ chuột thời gian 3 giây, nhân vật sẽ tự động đi theo hướng di chuyển con chuột ~
+
+	1: HIY Góc trên bên trái màn hình có một quả cầu HIR màu đỏ HIY cho biết giá trị Khí Huyết của bạn, mỗi lần bị công kích sẽ giảm bớt, nếu đến khi không còn màu đỏ nữa, thì lúc đó bạn đã chết rồi ~~
+
+	1: HIY Góc trên bên trái màn hình có một quả cầu HIR màu xanh HIY cho biết giá trị Pháp Lực của bạn, mỗi lần sử dụng kỹ năng sẽ giảm bớt, nếu giá trị Pháp Lực ít thì có thể sẽ không dùng được kỹ năng.
+
+	1: HIY Nhấp vào HIR phím Esc HIY có thể nhìn thấy những tuỳ chọn để thoát trò chơi.
+
+	1: HIY Phím công dụng HIR F12 HIY có thể khôi phục những cửa sổ di chuyển vị trí trở về vị trí thỏa thuận ban đầu.
+
+	1: HIY Nhấn và giữ phím HIR Ctrl HIY tiếp đó nhấp HIR chuột trái HIY lên đối tượng, là có thể thấy được những thông tin cơ bản của đối tượng.
+
+	1: HIY Nhấn và giữ phím HIR Ctrl HIY tiếp đó nhấp HIR chuột phải HIY lên đối tượng, là có thể thấy được những trang bị đang mặc của đối tượng.
+
+	1: HIY Đừng sợ quái vật, các quái vật gần Tân Thủ Thôn rất yếu. Nhấp chuột HIR trái HIY vào quái vật sẽ dễ dàng thu phục.
+
+	1: HIY Phía Bắc của Tân Thủ Thôn là HIR U Cốc và Ba Khâu HIY, phía Nam là HIR Thanh Khê HIY, đó là những nơi luyện cấp cho tân thủ rất tốt ~~
+
+	1: HIY Đè  HIR phím Alt HIR có thể phát hiện ra những vật phẩm bị che khuất trên mặt đất hoặc hiện rõ tên vật phẩm trong Cửa hàng, rất thuận tiện ~~
+
+	1: HIY Không thấy vật phẩm rớt ra từ quái vật? Dùng chuột HIR trái HIY nhấp vào vật phẩm đó là có thể nhặt lên.
+
+	1: HIY Những vật phẩm trong hành trang có thể nhấp HIR chuột phải HIY để sử dụng, HIR chuột trái HIY để di chuyển và vứt bỏ.
+
+	1: HIY Hành trang đã quá nhiều? Hãy đi tìm HIR Quản Khố HIY hỗ trợ, hắn có khả năng cất bớt vật phẩm của bạn vào Kho để bảo quản.
+
+	1: HIY Quản Khố không chỉ có thể bảo quản giùm đồ vật của bạn, còn có thể cất tiền giùm bạn. Yên tâm, tuyệt đối an toàn!
+
+	1: HIY Những vật phẩm vô dụng trên người có thể HIR bán đi HIY, như vậy có thể đổi được tiền.
+
+	1: HIY Không nên xem thường tác dụng của điểm HIR tiềm năng HIY , sau khi học kĩ năng phải cần nhiều đến nó.
+
+	1: HIY Trong trò chơi làm chuyện gì cũng đều có thể nhận được điểm HIR kinh nghiệm HIY phần thưởng.
+
+	1: HIY Khi điểm kinh nghiệm tích luỹ tới mức nhất định, có thể tăng thêm HIR cấp bậc HIY, khi cấp bậc tăng lên, điểm thuộc tính nhân vật cũng sẽ tăng theo.
+
+	1: HIY HIR Thể Chất HIY là thuộc tính có thể gia tăng Khí Huyết.
+
+	1: HIY HIR Tinh Thần HIY là thuộc tính có thể gia tăng Pháp Lực, Nội Công cùng Nội Kháng.
+
+	1: HIY HIR Sức Mạnh HIY là thuộc tính có thể gia tăng Ngoại Công.
+
+	1: HIY HIR Nhẫn Nại HIY là thuộc tính có thể gia tăng Ngoại Kháng.
+
+	1: HIY HIR Thân Thủ HIY là thuộc tính có thể gia tăng Né Tránh và Bạo Kích ( Né Tránh và Chính Xác khi công kích có tỷ lệ thành công ).
+
+	1: HIY HIR Thể Chất, Tinh Thần, Sức Mạnh, Nhẫn Nại, Thân Thủ HIY là năm thuộc tính cơ bản cho năng lực bản thân.
+
+	1: HIY Khi lập nhóm có thể đi đánh HIR Sứ Mệnh Nhân Vật HIY để gia tăng thêm kinh nghiệm, Nhân Vật Sứ Mệnh rất là lợi hại, vì thế hãy lập tổ đội rồi mới đi khiêu chiến.
+
+	1: HIY Tìm kiếm các vật phẩm quanh Tân Thủ Thôn để làm nhiệm vụ HIR Sứ mệnh vật phẩm HIY, sau khi tìm được giao cho Vệ Đội Trưởng ở Tân Thủ Thôn có thể đạt được kinh nghiệm nhất định.
+
+	1: HIY Tìm HIR Thần Tiên Gia Gia HIY tâm sự, bạn có thể được nhiều tin tức hữu dụng ~~
+
+	1: HIY Trong trường hợp ngàn cân treo sợi tóc, bạn không cần hoảng sợ, bạn có thể lựa chọn HIR Lập tức hồi sinh HIY hoặc chờ đợi y sĩ Vân Mộng Cốc đến HIR cứu HIY .
+
+	1: HIY Đốc Công ở Tân Thủ Thôn có thể trao đổi điểm HIR Thể lực HIY của bạn với điểm HIR Tiềm năng HIY .
+
+	1: HIY Để học kĩ năng nghề nghiệp có thể đến các quốc gia tìm HIR Công Tượng HIY để học.
+
+	1: HIY Ở HIR Sở Quốc HIY, có thể tới HIR Sở Quốc Công Tượng HIY để học kĩ năng Điêu Khắc.
+
+	1: HIY Chúng ta có thể đến HIR nước Yên HIY tìm HIR Công Tượng ở đó HIY để học kỹ năng khai khoáng, là có thể đi HIR khai quặng HIY rồi~~
+
+	1: HIY Muốn quyết tâm trở thành một thợ rèn giỏi, thì phải đến HIR Tần Quốc HIY tìm HIR Công Tượng Tần Quốc HIY để học tập kỹ thuật rèn.
+
+	1: HIR Luyện đan HIY có thể chế tạo ra nhiều loại đơn dược, có rất nhiều loại thuốc bổ tốt, hãy nhanh chân đến HIR Ngụy Quốc HIY tìm HIR Công Tượng của Ngụy Quốc HIY để học.
+
+	1: HIR Dược Sư HIY có thể thu thập đủ loại HIR Thảo dược HIY cung cấp cho HIR Luyện Đan HIY, nhanh đi HIR Triệu Quốc HIY tìm HIR Triệu Quốc Công Tượng HIY học kĩ năng hái thuốc.
+
+	1: HIY Mỗi người chỉ có thể học 2 loại HIR Kỹ năng nghề nghiệp HIY cùng 1 loại HIR Kĩ năng phụ trợ HIY.
+
+	1: HIY HIR Đầu Bếp HIY là kĩ năng phụ trợ, ai cũng có thể học.
+
+	1: HIY Có thể tới HIR Chu quốc HIY cùng HIR Chu quốc Ngự Trù HIY để học kĩ năng HIR Đầu Bếp HIY.
+
+	1: HIY Toàn bộ Y Phục, Nón, Hài đều là từ kĩ năng HIR May Mặc HIY tạo nên, ở HIR Hàn Quốc HIY có thể tìm đến HIR Hàn Quốc Công Tượng HIY để học.
+
+	1: HIY Ở HIR Tề Quốc HIY HIR Tề Quốc Công Tượng HIY có thể dạy bạn chế tạo HIR Cơ Quan HIY, cơ quan chính là loại thú có kĩ năng chiến đấu.
+
+	1: HIY Các loại kĩ năng nghề nghiệp đều có những công cụ khác nhau, có thể tới HIR Chủ Tiệm Tạp Hoá HIY để mua.
+
+	1: HIR Rèn Đúc HIY cần một cái HIR Búa Thanh Đồng HIY và ở trước mặt HIR Chủ Tiệm Sửa Chữa HIY để rèn vũ khí.
+
+	1: HIY Rất nhiều nguyên liệu cho kĩ năng HIR Đầu Bếp HIY có thể mua ở HIR Chủ Tửu Lâu HIY .
+
+	1: HIR Điêu Khắc HIY có thể chế tạo HIR Hạng Liên HIY của các môn phái, cũng có thể HIR Khảm nạm HIY trang bị, và còn có thể đem trang bị HIR Phân giải.
+
+	1: HIR Điêu Khắc HIY cần HIR Điêu Khắc Đao HIY có thể mua ở HIR Chủ Tiệm Tạp Hoá Sở Quốc HIY
+
+	1: HIY Rất nhiều nơi để có thể thu thập HIR Thiết Khoáng cùng Thảo Dược HIY.
+
+	1: HIY Công cụ cho kĩ năng nghề nghiệp là có số lần sử dụng, khi dùng xong lại tới HIR Chủ Tiệm Tạp Hoá HIY để mua.
+
+	1: HIY Học HIR Kĩ năng nghề nghiệp HIY có thể thăng cấp theo hai cách, sử dụng điểm HIR Tiềm năng HIY hoặc điểm HIR Kinh nghiệm HIY để học.
+
+	1: HIY Kĩ năng nghề nghiệp có HIR Cấp bậc HIY là để cho bạn có những công thức tốt hơn.
+
+	1: HIY Kĩ năng nghề nghiệp có HIR Độ thuần thục HIY là để cho người chơi có thể chế tạo ra sản phẩm thực.
+
+	1: HIR Rèn Đúc, May Mặc, Cơ Quan HIY chế tạo vật phẩm đều có tỷ lệ thành công, nó phụ thuộc vào độ may mắn của bạn.
+
+	1: HIY Độ thành thạo của HIR kỹ năng sống HIY không đủ, cho dù là là kỹ năng sống ở mức cao như thế nào, thì cũng không có cách nào tạo ra những thứ cao cấp.
+
+	1: HIY Có thể thông qua chế tạo vật phẩm để tăng HIR Độ thuần thục kĩ năng nghề nghiệp HIY.
+
+	1: HIY Khi chế tạo vật phẩm thất bại sẽ nhận được một HIR Phế phẩm HIY, phế phẩm chỉ có thể dùng để bán.
+
+	1: HIR May Mặc HIY cần HIR Tú Hoa Châm HIY có thể tới HIR Chủ Tiệm Tạp Hoá Hàn Quốc HIY để mua
+
+	1: HIR Luyện Đan HIY cần HIR Lò Luyện Đan HIY có thể tới HIR Chủ Tiệm Tạp Hoá Ngụy Quốc HIY để mua
+
+	1: HIR Thái Dã HIY cần HIR Cái Cuốc HIY có thể tới HIR Chủ Tiệm Tạp Hoá Yên Quốc HIY để mua
+
+	1: HIR Đầu Bếp, Dược Sư HIY cần HIR Cái Liềm HIY có thể tới HIR Chủ Tiệm Tạp Hoá ở Chu Quốc hoặc Triệu Quốc HIY để mua
+
+	1: HIR May Mặc HIY cần rất nhiều HIR Tuyến HIY nguyên liệu để chế tạo.
+
+	1: HIR May Mặc HIY cần có HIR Động Vật Bì Mao, Vải Dệt HIY cũng có thể rớt ra từ quái vật.
+
+	1: HIY Điêu Khắc, Rèn Đúc, Luyện Đan, May Mặc, Cơ Quan đến đạt cấp 39 thì phải gia nhập Bang Phái mới có thể học đến cấp cao hơn.
+
+	1: HIY Điêu Khắc chỉ có thể phân giải vũ khí Lam kim và Hoàng kim, Y Phục cùng Hạng Liên.
+
+	1: HIY Rèn Đúc cùng May Mặc chế tạo trang bị đều có thuộc tính thay đổi.
+
+	1: HIY Nhân vật cấp 10 trở lên thì có thể học kĩ năng nghề nghiệp.
+
+	1: HIY Chủ Tiệm Sửa Chữa ở mỗi quốc gia đều có thể giám định trang bị giùm bạn.
+
+	1: HIY Ở Chủ Tiệm Tạp Hoá có thể mua được vật phẩm dùng để giám định.
+
+	############################## giai đoạn thứ hai nêu lên ##############################
+
+	2: Bằng cách nhấp chuột phải vào chân dung người chơi (phía trên màn hình) là có thể thấy ra một trình đơn và các chức năng liên quan đến người chơi đó.
+
+	2: HIY Gia nhập nhóm hoặc vào nhóm, các thành viên trong nhóm đều hiện rõ bên trái màn hình.
+
+	2: HIY Nhấn Shift+ chuột phải vào tên nhân vật người chơi trong khung Chat, sẽ xuất hiện một trình đơn có các chức năng tương ứng.
+
+	2: HIY Nhấn Shift+ chuột trái vào tên nhân vật người chơi trong khung Chat, là có thể tán gẫu với người chơi đó.
+
+	2: HIY Nhập vào lệnh HIR “/tell ID” HIY thì có thể Nói thầm với người chơi có số ID đó.
+
+	2: HIY Ở trong nhóm nếu như nhấp chuột phải vào chân dung của một thành viên, sẽ xuất hiện một trình đơn đội nhóm. Nếu như là đội trưởng, còn có thể nhường quyền đội trưởng cho người đó.
+
+	2: HIY Thêm bạn hữu vào danh sách bạn bè, như vậy có thể liên hệ với người bạn đó rồi.
+
+	2: HIY Mở bảng HIR Bạn Bè HIY nhấp vào "Kết Bạn", có thể tìm thêm những người bạn mới.
+
+	2: HIY Trong bảng HIR Kết Bạn HIY , nhập số ID hoặc tên người chơi muốn kết bạn, tiếp tục tra thêm là có thể có thêm nhiều bạn hữu.
+
+	2: HIY Sau khi mở HIR Menu Bạn Hữu HIY lựa chọn một bạn hữu, nhấp HIR chuột phải HIY sẽ xuất hiện một trình đơn có các tuỳ chọn tương ứng.
+
+	2: HIY Trong HIR Menu Bạn Hữu HIY kích đúp vào tên bạn hữu là có thể trò chuyện.
+
+	2: HIY Đưa những người đáng ghét vào HIR Sổ Đen HIY ~~ từ đó nhưng tin tức của người đã liệt vào sổ đen này sẽ bị chặn.
+
+	2: HIY Khi gửi thư, trong ô nhập thông tin đồng thời nhấn phím “ HIR Alt ＋ ～ HIY ” là có thể thêm vào ký hiệu biểu thị tình cảm vào trong thư.
+
+	2: HIY Chủ Tiệm Sửa Chữa ở mỗi Quốc gia đều có thể giám định trang bị giùm bạn.
+
+	2: HIY Ở chỗ Chủ Tiệm Tạp Hoá bạn có thể mua được vật phẩm để giám định trang bị.
+
+	2: HIY Cấp bậc đã hơn 10 cấp rồi sao? Không thể luôn luôn là Tân Thủ được! Hãy đi tìm HIR Môn Phái HIY bái sư học nghệ.
+
+	2: HIY Không biết bái sư chỗ nào sao? Hãy tìm HIR Môn Phái Chiêu Sinh HIY thử xem, nhất định sẽ dễ dàng hơn.
+
+	2: HIY Sau khi gia nhập HIR Môn Phái HIY, là bạn có thể học được võ công độc đáo của HIR Môn Phái HIY đó.
+
+	2: HIY HIR Đào Hoa nguyên HIY là bậc thầy về quyền thuật, chú trọng đến Khí , Thể Lực, Tu Luyện, Nội công tương đối hùng hậu.
+
+	2: HIY HIR Đường Môn HIY là một tổ chức thần bí, rất nhiều hiệp sĩ giang hồ nổi tiếng đều thất bại dưới sự kinh ngạc của võ công phái Đường Môn.
+
+	2: HIY HIR Thục Sơn HIY sử dụng Đao và Kiếm rất tuyệt diệu, tuyệt đối sẽ không kém hơn Môn Phái khác!
+
+	2: HIY HIR Cấm Vệ Quân HIY sử dụng Thương và Côn, đây chính là một Môn Phái chú trọng Ngoại công mạnh nhất!
+
+	2: HIY HIR Mao Sơn HIY pháp thuật rất kì dị, Nghe nói có thể trừ Tà và gọi Thần đến hỗ trợ, hết sức lợi hại!
+
+	2: HIY HIR Côn Luân HIY do Nguyên Thủy Thiên Tôn sáng lập, có khả năng hô phong hoán vũ, rất là lợi hại!
+
+	2: HIY HIR Vân Mộng Cốc HIY Y Thuật đứng đầu thiên hạ, hơn nữa Mê Hồn Thuật cũng rất là nổi tiếng trong giang hồ.
+
+	2: HIY Trong trò chơi F1~F10 là những nút HIR công năng HIY, có thể kéo vật phẩm hoặc kĩ năng thả vào để dễ sử dụng.
+
+	2: HIY Trong màn hình có rất nhiều các HIR Lệnh Cơ Bản HIY, chỉ cần kéo và thả vào các lệnh đó là có thể sử dụng thông qua phím tắt.
+
+	2: HIY Trong kĩ năng phụ trợ có một kĩ năng gọi là HIR Bắt Bảo Thú HIY , bạn có thể lợi dụng chức năng này để bắt yêu quái và hoàn thành nhiệm vụ Sư môn.
+
+	2: HIY Sử dụng kĩ năng hoặc pháp thuật chỉ cần nhấp chuộc trái vào mục tiêu, tiếp tục sử dụng các kĩ năng tương ứng.
+
+	2: HIY Mỗi lần thăng lên một cấp là có thể có được 4 điểm thuộc tính, bạn có thể tuỳ ý tăng vào 5 thuộc tính cơ bản mà bạn thích.
+
+	2: HIY Chức năng mới HIR Hệ Thống Bảo Hiểm HIY, chỉ cần mua một cái Bảo hiểm, tiêu tốn một chút tiền, có thể giúp bạn trong một tuần những tổn thất giảm phân nửa, mọi người nhanh đi tìm HIR Chu Vương HIY thử chút xem sao ~
+
+	2: HIY Hệ thống sẽ dựa trên khả năng của bạn để HIR đánh giá HIY. Thấy không? Ở phía bên trái cửa sổ trong màn hình.
+
+	2: HIY Nhấn và giữ phím HIR Ctrl HIY tiếp đó nhấp HIR chuột trái HIY lên đối tượng, là có thể thấy được những thông tin cơ bản của đối tượng.
+
+	2: HIY Nhấn và giữ phím HIR Ctrl HIY tiếp đó nhấp HIR chuột phải HIY lên đối tượng, là có thể xem được trang bị của đối tượng.
+
+	2: HIY Nhấn và giữ phím HIR Alt HIR có thể phát hiện những vật phẩm bị che khuất trên mặt đất hoặc hiện rõ tên của các vật phẩm trong cửa hàng.
+
+	2: HIY Phím công dụng HIR F12 HIY có thể khôi phục những cửa sổ di chuyển vị trí trở về vị trí thỏa thuận ban đầu.
+
+	2: HIY Nhấn và giữ phím HIR Alt HIY tiếp đó nhấn HIR Enter HIY là có thể phóng to màn hình trò chơi.
+
+	2: HIY Dùng chuột chỉ vào mục tiêu, bấm tổ hợp phím HIR Ctrl+C HIY phục chế ID của người đó, tiếp theo bấm tổ hợp phím HIR Ctrl+V HIY là có thể dán vào kênh trò chuyện.
+
+	2: HIY HIR Hồi Thành Phù HIY có thể đưa bạn trở về một thành thị bất kì mà bạn chỉ định.
+
+	2: HIY Thiết trí ở Hệ thống chức năng HIR Cấm Phi Hành HIY, thì người khác không thể bay đến bên cạnh bạn.
+
+	2: HIY Thiết lập HIR Tổ Đội HIY với HIR Cấm Tổ Đội HIY, có thể luôn luôn từ chối lời mời tổ đội.
+
+	2: HIY Muốn cùng người chơi khác phân tài cao thấp sao? Vậy hãy sửa đổi HIR Hình thức công kích HIY là có thể PK.
+
+	2: HIY HIR Thiết Lập Hệ Thống HIY ( Alt+S) có thể sửa đổi một vài tuỳ chọn, và còn có thể chọn lựa mở hay không mở hình thức công kích.
+
+	2: HIY Trong trò chơi có rất nhiều HIR nhiệm vụ HIY phong phú, người chơi có thể thông qua HIR nhiệm vụ HIY để đạt được kinh nghiệm và tiềm năng.
+
+	2: HIY Trên người có HIR Tàng Bảo Đồ HIY sao? Đi đúng hướng bản đồ nêu lên sẽ có thể tìm thấy được bấu vật.
+
+	2: HIY HIR Giá trị thể lực HIY mỗi 6 phút online thì có thể hồi phục 1 điểm.
+
+	2: HIY Không nên xem thường HIR Triệu Hồi Thú HIY, nó cũng có thể thông qua chiến đấu tăng lên cấp bậc.
+
+	2: HIY Trong trường hợp ngàn cân treo sợi tóc, bạn không cần hoảng sợ, bạn có thể lựa chọn HIR Lập tức hồi sinh HIY hoặc chờ đợi y sĩ Vân Mộng Cốc đến HIR cứu HIY .
+
+	2: HIY Để học kĩ năng nghề nghiệp có thể đến các quốc gia tìm HIR Công Tượng HIY để học.
+
+	2: HIY Ở HIR Sở Quốc HIY, có thể tới HIR Sở Quốc Công Tượng HIY để học kĩ năng Điêu Khắc.
+
+	2: HIY Chúng ta có thể đến HIR nước Yên HIY tìm HIR Công Tượng ở đó HIY để học kỹ năng khai khoáng, là có thể đi HIR khai quặng HIY rồi~~
+
+	2: HIY Muốn quyết tâm trở thành một thợ rèn giỏi, thì phải đến HIR Tần Quốc HIY tìm HIR Công Tượng Tần Quốc HIY để học tập kỹ thuật rèn.
+
+	2: HIR Luyện đan HIY có thể chế tạo ra nhiều loại đơn dược, có rất nhiều loại thuốc bổ tốt, hãy nhanh chân đến HIR Ngụy Quốc HIY tìm HIR Công Tượng của Ngụy Quốc HIY để học.
+
+	2: HIR Dược Sư HIY có thể thu thập đủ loại HIR Thảo dược HIY cung cấp cho HIR Luyện Đan HIY, nhanh đi HIR Triệu Quốc HIY tìm HIR Triệu Quốc Công Tượng HIY học kĩ năng hái thuốc.
+
+	2: HIY Mỗi người chơi có thể học được 2 loại HIR kĩ năng nghề nghiệp HIY cùng 1 loại HIR kĩ năng phụ trợ HIY.
+
+	2: HIY HIR Đầu Bếp HIY là kĩ năng phụ trợ, ai cũng có thể học.
+
+	2: HIY Có thể tới HIR Chu quốc HIY cùng HIR Chu quốc Ngự Trù HIY để học kĩ năng HIR Đầu Bếp HIY.
+
+	2: HIY Toàn bộ Y Phục, Nón, Hài đều là từ kĩ năng HIR May Mặc HIY tạo nên, ở HIR Hàn Quốc HIY có thể tìm đến HIR Hàn Quốc Công Tượng HIY để học.
+
+	2: HIY Ở HIR Tề Quốc HIY HIR Tề Quốc Công Tượng HIY có thể dạy bạn chế tạo HIR Cơ Quan HIY, cơ quan chính là loại thú có kĩ năng chiến đấu.
+
+	2: HIY Các loại kĩ năng nghề nghiệp đều có những công cụ khác nhau, có thể tới HIR Chủ Tiệm Tạp Hoá HIY để mua.
+
+	2: HIR Rèn Đúc HIY cần một cái HIR Búa Thanh Đồng HIY và ở trước mặt HIR Chủ Tiệm Sửa Chữa HIY để rèn vũ khí.
+
+	2: HIY Rất nhiều nguyên liệu cho kĩ năng HIR Đầu Bếp HIY có thể mua ở HIR Chủ Tửu Lâu HIY .
+
+	2: HIR Điêu Khắc HIY có thể chế tạo HIR Hạng Liên HIY của các môn phái, cũng có thể HIR Khảm nạm HIY trang bị, và còn có thể đem trang bị HIR Phân giải.
+
+	2: HIR Điêu Khắc HIY cần HIR Điêu Khắc Đao HIY có thể mua ở HIR Chủ Tiệm Tạp Hoá Sở Quốc HIY
+
+	2: HIY Rất nhiều nơi để có thể thu thập HIR Thiết Khoáng cùng Thảo Dược HIY.
+
+	2: HIY Công cụ cho kĩ năng nghề nghiệp là có số lần sử dụng, khi dùng xong lại tới HIR Chủ Tiệm Tạp Hoá HIY để mua.
+
+	2: HIY Học HIR Kĩ năng nghề nghiệp HIY có thể thăng cấp theo hai cách, sử dụng điểm HIR Tiềm năng HIY hoặc điểm HIR Kinh nghiệm HIY để học.
+
+	2: HIY Kĩ năng nghề nghiệp có HIR Cấp bậc HIY là để cho bạn có những công thức tốt hơn.
+
+	2: HIR Rèn Đúc, May Mặc, Cơ Quan HIY chế tạo vật phẩm đều có tỷ lệ thành công, nó phụ thuộc vào độ may mắn của bạn.
+
+	2: HIY Khi chế tạo vật phẩm thất bại sẽ nhận được một HIR Phế phẩm HIY, phế phẩm chỉ có thể dùng để bán.
+
+	2: HIR May Mặc HIY cần HIR Tú Hoa Châm HIY có thể tới HIR Chủ Tiệm Tạp Hoá Hàn Quốc HIY để mua
+
+	2: HIR Luyện Đan HIY cần HIR Lò Luyện Đan HIY có thể tới HIR Chủ Tiệm Tạp Hoá Ngụy Quốc HIY để mua
+
+	2: HIR Thái Dã HIY cần HIR Cái Cuốc HIY có thể tới HIR Chủ Tiệm Tạp Hoá Yên Quốc HIY để mua
+
+	2: HIR Đầu Bếp, Dược Sư HIY cần HIR Cái Liềm HIY có thể tới HIR Chủ Tiệm Tạp Hoá ở Chu Quốc hoặc Triệu Quốc HIY để mua
+
+	2: HIR May Mặc HIY cần có HIR Động Vật Bì Mao, Vải Dệt HIY cũng có thể rớt ra từ quái vật.
+
+	2: HIY Điêu Khắc, Rèn Đúc, Luyện Đan, May Mặc, Cơ Quan đến đạt cấp 39 thì phải gia nhập Bang Phái mới có thể học đến cấp cao hơn.
+
+	2: HIY Điêu Khắc chỉ có thể phân giải vũ khí Lam kim và Hoàng kim, Y Phục cùng Hạng Liên.
+
+	2: HIY Rèn Đúc cùng May Mặc chế tạo trang bị đều có thuộc tính thay đổi.
+
+	2: HIY Nhân vật cấp 10 trở lên thì có thể học kĩ năng nghề nghiệp.
+
+	############################## cấp thứ ba đoạn nêu lên ##############################
+
+	3: HIY HIR Bang Phái HIY là do người chơi tự lập ra, trong đó Bang chủ là người đứng đầu, quyết định chính sách đối nội và đối ngoại.
+
+	3: HIY Nhân vật của người chơi HIR cấp 40 hoặc cấp 40 trở lên HIY, hiện tại chưa gia nhập Bang hay chưa xin vào Bang nào mới có thể trở thành người sáng lập Bang Phái mới.
+
+	3: HIY Sáng lập bang phái cần một tín vật: HIR Tù Và Đế Vương HIY .
+
+	3: HIY Người chơi nếu muốn gia nhập Bang Phái khác thì đi tới HIR Tổng Quản Bang Phái HIY, nhấp vào HIR Tổng Quản Bang Phái HIY, sau đó lựa chọn" HIR Xin gia nhập Bang HIY " là có thể vào Bang.
+
+	3: HIY Sau khi gia nhập bang phái đến Võ Giáo Đầu cùng Tổng Quản Bang Phái có thể học được rất nhiều HIR kỹ năng bang phái HIY  ~~
+
+	3: HIY Thông qua việc hoàn thành nhiệm vụ của Trưởng Phòng Tiên Sinh, là có thể tăng Dự trữ cho Bang Phái.
+
+	3: HIY Chỉ cần là Bang Chủ hoặc Phó Bang Chủ, đều có thể thông qua Võ Giáo Đầu để tăng Độ huấn luyện.
+
+	3: HIY Chức vụ Thương Nhân trong Bang phái là không thể thiếu. Tài chính của Bang phái đều là do Thương Nhân đi kiếm về mà có.
+
+	3: HIY Thông qua việc hoàn thành nhiệm vụ của Tổng Quản Bang Phái, là có thể tăng điểm Cống hiến Bang Phái.
+
+	3: HIY Bang Phái độ An Định và Nhân Khí ảnh hưởng tới việc nâng cấp của Bang Phái.
+
+	3: HIY Độ nghiên cứu của Bang phái càng cao thì có thể nghiên cứu nhiều kĩ năng hơn.
+
+	3: HIY Trong bảng kĩ năng của Bang phái, nhấp chuột phải vào kỹ năng sẽ xuất hiện 1 trình đơn tuỳ chọn cho kĩ năng đó.
+
+	3: HIY Thông qua việc hoàn thành nhiệm vụ của tổng quản bang phái cũng như là có thể nâng cao nhân khí và độ ổn định của bang phái.
+
+	3: HIY Đến trình diện với quan hộ tịch HIR ở trong thành HIY , là có thể gia nhập vào quốc gia này.
+
+	3: HIY HIR Giá trị thể lực HIY mỗi 6 phút online thì có thể hồi phục 1 điểm.
+
+	3: HIY Đẳng cấp HIR người chơi sau cấp 50 HIY nếu như muốn lập tổ đội để dẫn dắt người chơi mới luyện cấp thì có thể đạt được HIR Điểm công đức HIY .
+
+	3: HIY Nếu tích lũy được HIR điểm công đức nhất định HIY , thì có thể HIR đổi được rất nhiều HIY thứ tốt ở chỗ của Công Đức lão nhân.
+
+	3: HIY Sau khi qua cấp 15 thì phải cẩn thận, nếu như không may bị chết mà lại không có người đến ứng cứu thì sẽ bị mất điểm kinh nghiệm, vàng bạc HIR sẽ giảm bớt HIY .
+
+	3: HIY Sợ phải chịu tổn thất khi chọn Lập tức hồi sinh sao? Chỉ cần có người chơi khác hiệp nghĩa tới HIR cứu HIY, như vậy chỉ tốn một chút tiền thôy.
+
+	3: HIY Đến chỗ HIR Võ Sư Chu Quốc HIY xin phép là có thể vào Tỷ võ được rồi.
+
+	3: HIY Cùng những người chơi khác ở HIR Võ Đài HIY luận bàn võ nghệ thì khi giết chết đối phương cũng không lên HIR điểm PK HIY ~~
+
+	3: HIY HIR Ctrl+H HIY Có thể nhanh chóng thay đổi cách thức tấn công hiện tại của người chơi.
+
+	3: HIY Côn Luân sử dụng kỹ năng HIR Long Du Tứ Hải HIY nhập vào số ID của người chơi là có thể bay đến bên cạnh người chơi đó. Nhưng nếu đối phương ở Khu vực an toàn hoặc trong Mê cung thì không cách nào bay tới được.
+
+	3: HIY Người chơi có thể dùng lệnh HIR Bày Hàng HIY để lấy vật phẩm ra HIR Bày bán HIR .
+
+	3: HIY Cùng bạn bè tổ chức đội để tham gia HIR phối hợp giúp đỡ HIY tiêu diệt HIR kẻ cướp với lão gia Chu Quốc HIY , thì tiềm năng thu được sẽ rất lớn.
+
+	3: HIY HHIR chủ quán rượu HIY là người thứ gì cũng biết, muốn có thông tin gì thì có thể đến tìm người ấy, nhất định sẽ thu được nhiều điều có ích.
+
+	3: HIY Hy vọng có nhiều tiền thì phải đi nhận HIR Nhiệm vụ Áp tiêu HIY . Bất quá độ phiêu lưu có thể là rất lớn ~~
+
+	3: HIY HIR Áp tiêu HIY phải cận thận khi gặp HIR Ăn Mày HIY , bất quá có thể cho ít ngân lượng rồi đuổi đi.
+
+	3: HIY HIR Áp tiêu HIY không thể sử dụng Dịch trạm, kĩ năng pháp thuật cùng đạo cụ.
+
+	3: HIY Giúp đỡ HIR Vương Bộ đầu HIY ở Chu Quốc truy nã HIR Hải Tặc HIY có thể nhận được Tàng Bảo Đồ ~~ căn cứ theo HIR Tàng Bảo Đồ HIY đi tìm kho báu...
+
+	3: HIY Đang đào Kho báu cũng có thể gặp được HIR Hải tặc HIY, dốc toàn lực đánh bại hắn ! Kinh nghiệm nhận được sẽ rất là lớn.
+
+	3: HIY Thu thập đủ HIR Tàng Bảo Đồ không trọn ven HIY ghép lại có thể nhận được Tàng Bảo Đồ tốt hơn bình thường ~~
+
+	3: HIY Tài nguyên cao cấp chỉ có thể đi đến nơi cao cấp mới có thể thu thập được.
+
+	3: HIY Rèn Đúc có thể chế tạo ra những Công cụ cần thiết cho các kỹ năng nghề nghiệp khác.
+
+	3: HIY Cơ Quan có thể chế tạo ra những Công cụ mà Thợ May cần.
+
+	3: HIY Cơ Quan có thể chế tạo ra HIR những con thú cưng HIY để tặng bạn bè.
+
+	3: HIY Công thức HIR cao cấp HIY chỉ có thể đạt được từ trên người của quái vật.
+
+	3: HIY Đào báu vật cũng có thể đào được công thức HIR của kỹ năng nghề nghiệp HIY .
+
+	############################## chiến trường nêu lên ##############################
+
+	900: HIY Bắt giặc trước bắt vua, chỉ cần tiêu diệt HIR Tổng quản HIY, thắng lợi là của chúng ta!
+
+	900: HIY Bảo vệ  HIR tổng quản HIY của mình, hắn là địch nhân chủ yếu cần công kích!
+
+	900: HIY Phải đề phòng Tiễn Tháp công kích, đó là vũ khí chí mạng đấy!
+
+	900: HIY Bái phỏng Thần Cơ viện chủ, có thể mua được rất nhiều vật phẩm trên Chiến trường.
+
+	900: HIY HIR đổi vị trí phù, hồi hồn phù HIY là phù chú giúp trong chiến đấu thực dụng nhất.
+
+	900: HIY HIR đổi vị trí phù HIY có thể nháy mắt đem người chơi truyền tống về HIR Tổng Quản Bang Phái ở Chiến Trường phe ta HIY .
+
+	900: HIY HIR hồi hồn phù HIY là tự động có hiệu lực, người chơi một khi bỏ mạng, liền có thể dùng hồi hồn phù sau 10 giây tự động sống lại tại chỗ.
+
+	900: HIY Thời gian chiến đấu chỉ có HIR 2 giờ HIY, nếu thời gian đến, một bên sẽ kích động chiến tranh.
+
+	900: HIY Các bên tuyên chiến sẽ bồi thường khi bị thất bại, nhưng chiến tranh sẽ là hậu quả lớn hơn nhiều.
+
+	900: HIY Bang chủ hoặc Phó bang chủ, Trưởng lão có thể vào chiến trường HIR chấp chính NPC HIY gia tăng năng lực của các loại Tiễn Tháp!
+
+	900: HIY Người chơi giúp tiêu diệt địch trong Chiến đấu có thể có được một loại tài nguyên mới -- HIR Gỗ HIY .
+
+	900: HIY Các loại NPC khi thăng cấp đều phải cần đến HIR Gỗ HIY !
+
+	900: HIY Người chơi giúp tiêu diệt địch trong Chiến Đấu nếu như bỏ mạng, sẽ không mất kinh nghiệm nhưng sẽ bị rơi vật phẩm.
+
+	900: HIY Trong Chiến tranh Bang phái người chơi sau khi hồi sinh thì HIR khí huyết sẽ còn lại 10% HIY .
+
+	900: HIY Bị người chơi đá ra ngoài Chiến trường, nhất định phải chờ HIR 2 phút HIY mới có thể thông qua Tổng Quản Bang Phái một lần nữa phản hồi chiến trường.
+
+	900: HIY Nếu như không có HIR hồi hồn phù HIY trợ giúp, người chơi bỏ mạng sẽ quay về bên cạnh Tổng Quản Bang Phái ở ngoài.
+
+	900: HIY Chỉ có HIR Bang chủ HIY cùng HIR Phó bang chủ, Trưởng lão HIY mới có thể chấp hành mệnh lệnh đá người.
+
+	900: HIY Thông qua chấp chính NPC có thể sửa chữa HIR Tiễn Tháp bị hao tổn HIY, nhưng kinh phí sửa chữa phải là bằng tiền tài chính của Bang phái.
+
+	900: HIY Chiến Trường cấm sử dụng toàn bộ phép thuật.
+
+	900: HIY Trong Chiến Trường thông cấm sử dụng đạo cụ.
+
+	900: HIY Trong Chiến Trường cứ cách 1 thời gian cố định đều xuất hiện Tay Sai ra HIR hiệp trợ tác chiến HIY .
+
+	900: HIY Mỗi lần xuất hiện 1 Tay Sai ra tác chiến, đều phải hao phí HIR 5 hai HIY bang phái tài chính.
+
+	900: HIY Nếu độ An Định cùng Nhân Khí của Bang phái đều bằng 0 thì Bang phái đó sẽ bị giải tán.
+
+	900: HIY Người chơi giúp tiêu diệt địch nhân trong Chiến Trường đều có thể nhận được kinh nghiệm.
+
+	900: HIY Bái phỏng Chấp chính NPC đều phải tiêu hao tài chính của Bang Phái.
+

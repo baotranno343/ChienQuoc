@@ -1,0 +1,53 @@
+﻿Vân Mộng Cốc
+0511	Y Thuật //
+0531	Mê Hồn Quyết
+0501	Trung Y Dược Lý //
+0281	Ngự Phong Tâm Pháp
+0591	Kỳ Môn Độn Giáp
+
+Mao Sơn = 1
+0414	Nghịch Thiên Pháp Chú
+0417	Thuận Thiên Pháp Chú
+0271	Hàng Ma Pháp Chú 
+0413	Đạo Pháp Thần Thông
+0418	Huyền Học Chính Đạo
+
+Đường Môn
+0365	Đường Môn Tâm Pháp
+0364	Đạp Tuyết Vô Ngân
+0368	Cực Tà Sát Pháp
+0261	Mạn Thiên Hoa Vũ = fix
+0363	Đường Môn Độc Kinh
+
+Côn Lôn
+0421	Đại Thừa Đạo Pháp
+0423	Kim Tiên Phù Chú
+0424	Kim Cương Pháp Chú
+0425	Càn Khôn Đại Na Di
+0422	Âm Dương Ngũ Hành
+0426    Côn Luân Đao Chú
+
+Cấm Vệ Quân
+0349	Ma Luyện
+0242	Thương Côn Bộ Pháp
+0241	Bá Vương Thương Pháp
+0348	Binh Pháp
+0251	Phong Ma Côn Pháp
+
+Thục Sơn = 1
+0329	Chu Thiên Vận Chuyển
+0325	Hỗn Nguyên Chân Khí = fix
+0231	Phi Tiên Kiếm Pháp
+0221	Thiên La Đao Pháp
+0222	Đao Kiếm Các Đảng
+
+Đào Hoa Nguyên
+0316	Kim Cương Bất Hoại
+0211	Thái Cổ Thần Quyền
+0212	Đào Hoa Tâm Pháp
+0319	Chu Thiên Vận Chuyển
+0317	Hộ Thể Kim Cương = fix
+
+01 skill bang
+04 skill cuong hoa (vd 0436)
+

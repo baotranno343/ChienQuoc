@@ -1,0 +1,60 @@
+Vận Tiêu Lão Đầu
+--
+talk
+task
+accept
+join
+welcome
+tasklist
+mpLegend
+cancel
+%c%c%s
+Ngươi sử dụng 'Mãn thiên quá hải phù' để giãn cách thời gian nhiệm vụ?\n
+%c\n
+use %x#escort2\n
+talk
+%c%c%w%s
+%s:\n   Gần đây Thần Tiên Gia Gia giới thiệu không ít người đến chỗ ta , có một số người thật là...... haizzz, thôi ta chẳng muốn nói, ngươi cũng đừng lại làm ta thất vọng! Người trẻ tuổi làm việc phải có lòng can đảm, nhớ ngày đó, ta lúc còn trẻ......\n
+Hoàn thành nhiệm vụ \ntalk%x# welcome.2\n
+Rời đi
+%c%s
+Tìm Uất Trì lão tiêu đầu nói chuyện Kinh nghiệm 250 Tiềm năng 30
+%c%c%c%w%w%s
+
+escort.flag
+%c%c%w%s
+%s:\n   Chỗ ta có thể cho ngươi cơ hội kiếm tiền, nhưng những ngày gần đây, có một đám chuột nhắt phàm phu tục tử, lợi dụng chỗ ta để lừa đi không ít tiêu ngân, cho nên, bất cứ ai trước khi làm nhiệm vụ ở chỗ ta thì đều phải thông qua nhiệm vụ này.\n   Ngươi trước tiên hãy thay ta đem Tiêu Bạc này đến chỗ Mã Đại Hán ở Lê Hoa Thôn ngoại thành Hàn Quốc, lần này ta không thu tiền thế chấp của người, nhưng ngươi hãy nhớ lấy, trong quá trình áp tiêu sẽ không thể sử dụng dịch trạm hoặc đạo cụ hay pháp thuật truyền tống, nếu không nhiệm vụ sẽ thất bại!\n
+Tiếp nhận nhiệm vụ \ntalk%x# welcome.4\n
+Rời đi
+escort.flag
+%c%c%w%s
+:\n   Trên người ngươi có nhiều đồ đạc như vậy, đoán chừng không thể mang theo vật phẩm quý giá, ngẫm lại vẫn là không giao cho ngươi đi. Hãy dọn dẹp hành trang, rồi hãy tới tìm ta.
+/item/98/0237
+escort.time
+%c%s
+Ngươi đã tiếp nhận
+Tìm tòi thực hư
+Nhiệm vụ
+%c%c%c%w%s
+Chu Quốc
+%c%c%c%w%w%s
+Tìm tòi thực hư
+%c%c%w%s
+%s:\n   Gần đây sư gia Từ Phúc  giới thiệu không ít người đến chỗ ta , có một số người thật là...... haizzz, thôi ta chẳng muốn nói, ngươi cũng đừng lại làm ta thất vọng! Người trẻ tuổi làm việc phải có lòng can đảm, nhớ ngày đó, ta lúc còn trẻ......\n
+Hoàn thành nhiệm vụ \ntalk%x# welcome.6\n
+Rời đi
+%c%s
+Bái phỏng Uất Trì lão tiêu đầu Kinh nghiệm 300 Tiềm năng 35 Tiền tài 500
+%c%c%c%w%w%s
+
+%c%c%w%s
+%s:\n   Nghe nói gần nhất xuất hiện một nơi gọi là Phong Yêu Kính Thượng Cổ Di Vật, tồn mấy trăm năm đến nay bởi vì chiến tranh mà sinh ra Kính Yêu. Tới được nơi này phải thông qua một người tên là Tả Khâu Minh, hắn chính là người chiêu mộ các anh hùng hảo hán tiến vào Phong Yêu Kính tiêu diệt yêu quái, ngươi nếu có nhã hứng thì hãy qua đó tìm hắn. Đi từ cánh cổng trước mặt ta, rồi đi một mách về phía đông thì sẽ có thể nhìn thấy Tả Khâu Minh, hắn đứng dưới một cây đại thụ.\n
+Tiếp nhận nhiệm vụ \ntalk%x# welcome.8\n
+Rời đi
+%c%c%c%w%s
+Chu Quốc
+%c%c%c%w%w%s
+Bái phỏng Tả Khâu Minh
+%c%s
+Nhận nhiệm vụ  
+Bái phỏng Tả Khâu Minh

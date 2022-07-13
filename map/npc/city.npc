@@ -1,0 +1,357 @@
+# 君主
+10-65,173,2:/npc/city/1001
+20-244,66,4:/npc/city/2001
+30-224,51,6:/npc/city/3001
+40-313,122,8:/npc/city/4001
+50-52,143,2:/npc/city/5001
+60-196,272,2:/npc/city/6001
+70-194,268,2:/npc/city/7001
+#Chu Vương
+80-338,221,4:/npc/city/8001
+
+# Đại Tướng Quân
+10-148,69,8:/npc/city/1002
+20-89,150,2:/npc/city/2002
+30-334,129,6:/npc/city/3002
+40-173,63,2:/npc/city/4002
+50-216,75,4:/npc/city/5002
+60-84,195,2:/npc/city/6002
+70-343,135,4:/npc/city/7002
+
+# Tài Chính Quan
+10-51,168,2:/npc/city/1003
+20-232,62,2:/npc/city/2003
+30-218,51,2:/npc/city/3003
+40-317,137,2:/npc/city/4003
+50-66,139,4:/npc/city/5003
+60-211,269,3:/npc/city/6003
+70-200,266,4:/npc/city/7003
+
+# Nội Chính Quan
+10-72,183,3:/npc/city/1004
+20-233,55,7:/npc/city/2004
+30-223,55,2:/npc/city/3004
+40-329,127,6:/npc/city/4004
+50-56,154,3:/npc/city/5004
+60-215,269,4:/npc/city/6004
+70-195,260,8:/npc/city/7004
+
+# Hộ Tịch Quan
+10-83,164,3:/npc/city/1005
+20-217,55,6:/npc/city/2005
+30-210,50,1:/npc/city/3005
+40-325,135,2:/npc/city/4005
+50-91,113,2:/npc/city/5005
+60-221,255,3:/npc/city/6005
+70-201,256,8:/npc/city/7005
+
+# 御史
+10-79,180,4:/npc/city/1006
+20-213,48,8:/npc/city/2006
+30-220,53,2:/npc/city/3006
+40-329,131,6:/npc/city/4006
+50-62,149,4:/npc/city/5006
+60-200,266,6:/npc/city/6006
+70-201,260,6:/npc/city/7006
+
+# 使节
+10-89,171,3:/npc/city/1007
+20-202,39,2:/npc/city/2007
+30-216,56,6:/npc/city/3007
+40-315,130,3:/npc/city/4007
+50-97,121,3:/npc/city/5007
+60-209,257,2:/npc/city/6007
+70-215,250,4:/npc/city/7007
+
+# 典狱官
+10-71,152,8:/npc/city/1008
+20-203,58,8:/npc/city/2008
+30-231,67,3:/npc/city/3008
+40-317,114,8:/npc/city/4008
+50-44,139,4:/npc/city/5008
+60-206,235,5:/npc/city/6008
+70-209,274,4:/npc/city/7008
+
+# Thủ Vệ
+10-145,109,2:/npc/city/1010
+20-149,109,6:/npc/city/2010
+30-255,108,6:/npc/city/3010
+40-261,192,6:/npc/city/4010
+50-138,194,8:/npc/city/5010
+60-147,202,2:/npc/city/6010
+70-239,198,2:/npc/city/7010
+10-140,193,6:/npc/city/1011
+20-251,109,8:/npc/city/2011
+30-152,110,4:/npc/city/3011
+40-255,109,4:/npc/city/4011
+50-142,106,2:/npc/city/5011
+60-233,187,4:/npc/city/6011
+70-155,202,4:/npc/city/7011
+80-221,140,2:/npc/city/8011
+
+# Thủ Vệ
+10-122,179,2:/npc/city/1012
+20-166,94,4:/npc/city/2012
+30-163,94,3:/npc/city/3012
+40-278,130,2:/npc/city/4012
+50-118,179,2:/npc/city/5012
+60-146,201,2:/npc/city/6012
+70-170,210,2:/npc/city/7012
+10-120,126,8:/npc/city/1013
+20-233,94,2:/npc/city/2013
+30-233,97,3:/npc/city/3013
+40-281,181,4:/npc/city/4013
+50-117,127,8:/npc/city/5013
+60-234,186,4:/npc/city/6013
+70-232,214,4:/npc/city/7013
+80-230,127,6:/npc/city/8013
+
+# Thủ Vệ
+10-137,195,2:/npc/city/1014
+20-146,106,6:/npc/city/2014
+30-147,106,8:/npc/city/3014
+40-258,106,4:/npc/city/4014
+50-141,192,8:/npc/city/5014
+60-121,180,3:/npc/city/6014
+70-161,198,4:/npc/city/7014
+10-141,106,2:/npc/city/1015
+20-255,106,8:/npc/city/2015
+30-250,112,2:/npc/city/3015
+40-264,194,6:/npc/city/4015
+50-145,109,2:/npc/city/5015
+60-258,165,3:/npc/city/6015
+70-244,202,2:/npc/city/7015
+80-199,113,2:/npc/city/8015
+
+
+# 职业经纪
+#10-120,147,4:/npc/city/1018
+#20-204,75,3:/npc/city/2018
+#30-189,87,4:/npc/city/3018
+#40-350,147,2:/npc/city/4018
+#50-95,179,7:/npc/city/5018
+#60-188,230,4:/npc/city/6018
+#70-239,228,6:/npc/city/7018
+
+# 职业评定师
+#10-115,143,8:/npc/city/1019
+#20-207,70,6:/npc/city/2019
+#30-192,84,3:/npc/city/3019
+#40-364,147,5:/npc/city/4019
+#50-93,182,2:/npc/city/5019
+#60-179,227,3:/npc/city/6019
+#70-247,248,4:/npc/city/7019
+
+# Công Tượng
+10-27,157,2:/npc/city/1020
+20-140,67,1:/npc/city/2020
+30-204,112,3:/npc/city/3020
+40-356,158,2:/npc/city/4020
+50-85,186,2:/npc/city/5020
+60-188,176,7:/npc/city/6020
+70-264,234,6:/npc/city/7020
+10-92,187,4:/npc/city/1021
+20-163,88,8:/npc/city/2021
+30-239,91,5:/npc/city/3021
+40-325,168,2:/npc/city/4021
+50-82,152,4:/npc/city/5021
+60-131,221,1:/npc/city/6021
+70-199,190,7:/npc/city/7021
+10-133,141,3:/npc/city/1022
+20-195,104,2:/npc/city/2022
+30-172,41,7:/npc/city/3022
+40-260,141,1:/npc/city/4022
+50-103,171,6:/npc/city/5022
+60-231,262,3:/npc/city/6022
+70-199,190,2:/npc/city/7022
+10-65,120,7:/npc/city/1023
+20-229,86,7:/npc/city/2023
+30-134,70,8:/npc/city/3023
+40-350,129,6:/npc/city/4023
+50-105,134,4:/npc/city/5023
+60-274,220,5:/npc/city/6023
+70-234,258,4:/npc/city/7023
+80-186,186,2:/npc/city/8020
+80-319,236,4:/npc/city/8021
+80-294,91,6:/npc/city/80221
+80-316,107,6:/npc/city/80222
+80-312,104,6:/npc/city/80223
+80-288,87,6:/npc/city/80224
+80-307,100,6:/npc/city/80225
+80-283,88,8:/npc/city/80226
+80-299,95,6:/npc/city/80227
+
+#种植
+10-140,224,2:/npc/city/1030
+20-288,96,6:/npc/city/2030
+30-114,185,2:/npc/city/3030
+40-228,229,3:/npc/city/4030
+50-214,190,6:/npc/city/5030
+60-152,100,8:/npc/city/6030
+70-131,132,1:/npc/city/7030
+
+# Bá Tánh
+10-112,184,4:/npc/city/1084
+20-189,80,8:/npc/city/2084
+30-207,96,3:/npc/city/3084
+40-338,163,3:/npc/city/4084
+50-86,163,8:/npc/city/5084
+60-196,214,8:/npc/city/6084
+70-254,243,4:/npc/city/7084
+
+#
+20-321,153,3:/npc/20/0001
+40-95,186,3:/npc/40/0001
+
+# Bang Phái Tổng Quản
+10-95,155,4:/npc/org/0001
+20-184,91,8:/npc/org/0002
+30-192,87,3:/npc/org/0003
+40-325,153,3:/npc/org/0004
+50-92,183,8:/npc/org/0005
+60-186,230,4:/npc/org/0006
+70-214,243,2:/npc/org/0007
+
+#Hoạt Động Cổ Mộ Chu Quốc Xa Phu
+080-276,163,4:/npc/party/0041
+
+#Quân sư Vô Song Thành
+001-155,147,4:/npc/test/quansuvosongthanh3
+080-282,182,4:/npc/test/quansuvosongthanh3
+
+#Âu Trị Tử
+080-257,165,2:/npc/test/autritu
+
+#Bang PháiGiámThị
+080-272,160,6:/npc/test/bangphaigiamthi
+
+#Bảng Xếp Hạng Thực Lực
+080-267,172,3:npc/org/BangThucLuc
+001-175,157,3:npc/org/BangThucLuc
+
+#Bảng Xếp Hạng Phú Hộ
+080-269,173,3:npc/org/BangPhuHo
+
+#Bảng Xếp Hạng Công Đức
+080-271,175,3:npc/org/BangCongDuc
+
+#Bảng Xếp Hạng Danh Sư
+080-271,179,3:npc/org/BangDanhSu
+
+#Bảng Xếp Hạng Đại Đệ Tử
+080-273,177,3:npc/org/BangDaiDeTu
+
+#Giám Ngục Quan
+704-31,25,2:npc/test/giamngucquan
+
+#Khoá Vô Song Thành
+888-68,68,2:npc/test/khoavsc1
+888-110,63,2:npc/test/khoavsc2
+888-106,91,2:npc/test/khoavsc3
+
+#Ảo Diện Thần 
+001-141,156,4:npc/test/aodienthan
+
+#Tẩy PK 
+#080-307,138,4:/npc/test/phamletaypk
+
+#NPC Hợp THành TÍn vẬt, Đoạn Thạch
+#080-278,155,4:/npc/test/doihuyetbinh
+
+#Phong Yeu Kinh Nuong Nuong
+#080-254,163,2:/npc/test/pyknn
+
+#Khieu chien boss
+#080-302,144,6:/npc/copy/NPC0
+
+#Nap The
+#001-143,154,4:/npc/test/napthe
+
+#Mac Dich - Huynh De
+#001-133,144,4:/npc/test/macdich
+
+#Su gia hoat dong
+//080-293,151,2:/npc/test/sugiahoatdong
+
+#Ban nguyen lieu thuoc
+//080-309,117,2:/npc/nl1
+//080-307,116,2:/npc/nl2
+//080-305,115,2:/npc/nl3
+//080-303,114,2:/npc/nl4
+
+#Duc lo
+#001-134,148,2:/npc/test/duclo
+
+#Pha thien thap
+#080-304,143,4:/ken/pb/NPC
+
+#Event Tet
+#080-328,117,3:/npc/event/tet/thientaidongtu
+
+#Pho Ban The Gioi
+#080-293,164,4:/tran/phuban/go
+
+#Quyen Gop
+#080-300,146,4:/npc/event/tieuhuytrangbi/tieuhuytrangbi
+
+#Chuyen KNB
+#080-243,221,4:/npc/test/chuyenknb
+080-243,221,4:/npc/party/0040
+080-289,150,4:/npc/party/0040
+
+#Su Gia Nhiem Vu
+#001-143,100,4:/npc/test/sgnv
+
+#Event 8/3
+#080-328,117,3:/npc/event/83/laobaba
+
+
+#Event Ac Quy Vuong
+#080-328,117,3:/npc/event/acquy/doiacquy
+
+#Ho Tro Tan Thu
+#001-145,152,3:/ken/hotrotanthu/npc
+
+#Chuyen SInh
+#001-132,150,3:/npc/test/npcchuyensinh
+
+#CanTuong than binh
+#080-286,168,3:/npc/test/cantuong
+
+#TichLuyNapThe
+#805-103,56,2:npc/test/tichluynapthe_2
+#080-319,135,4:npc/test/tichluynapthe
+
+
+#LoanSonKe
+001-151,129,4:tran/loansonke/npc
+
+#ThatGiaHoVuong
+001-147,126,4:npc/party/gtt_active_angel
+
+#Diem Danh Hang Ngay
+001-144,153,4:npc/test/sugiahoatdong
+
+
+#npc nhan open beta
+#001-146,152,4:npc/test/test
+
+
+#npc quyengop
+080-308,139,4:tran/quyengop/quyengop
+
+#Npc Nguyen lieu
+#80-300,122,2:/npc/npcnguyenlieu/npcnguyenlieu1
+#80-301,121,2:/npc/npcnguyenlieu/npcnguyenlieu2
+#80-302,120,2:/npc/npcnguyenlieu/npcnguyenlieu3
+#80-303,119,2:/npc/npcnguyenlieu/npcnguyenlieu4
+#80-304,118,2:/npc/npcnguyenlieu/npcnguyenlieu5
+#80-305,117,2:/npc/npcnguyenlieu/npcnguyenlieu6
+#80-306,116,2:/npc/npcnguyenlieu/npcnguyenlieu7
+#80-302,124,2:/npc/npcnguyenlieu/npcnguyenlieu8
+#80-303,123,2:/npc/npcnguyenlieu/npcnguyenlieu9
+#80-304,122,2:/npc/npcnguyenlieu/npcnguyenlieu10
+#80-305,121,2:/npc/npcnguyenlieu/npcnguyenlieu11
+#80-306,120,2:/npc/npcnguyenlieu/npcnguyenlieu12
+#80-307,119,2:/npc/npcnguyenlieu/npcnguyenlieu13
+#80-308,118,2:/npc/npcnguyenlieu/npcnguyenlieu14

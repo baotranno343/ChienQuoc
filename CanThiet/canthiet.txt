@@ -1,0 +1,2 @@
+sys/npc/npc: có drop item khi quái chết
+get_d: lay vi tri ite,m,

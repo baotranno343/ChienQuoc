@@ -1,0 +1,20 @@
+Microsoft Windows 95, Wed Jul 13 20:04:21 2022
+
+Chien Quoc (GSE 1.0) using GSE.ini starting up ...
+
+Initializing the world... done.
+Loading 45 preload files ...
+/sys/sys/class, /sys/sys/file, /sys/sys/map, /sys/sys/city, /map/map/map, 
+/map/city/city, /map/map/xy, /sys/sys/task, /sys/sys/callout, /sys/sys/check, 
+/sys/sys/user, /sys/sys/user2, /sys/sys/chat, /sys/sys/tips, /sys/sys/emote, 
+/sys/sys/family, /sys/sys/team, /sys/sys/id, /sys/user/exp, /sys/sys/login, 
+/sys/sys/login0, /sys/sys/login1, /sys/user/cmd, /sys/user/energy, 
+/sys/char/fight, /sys/char/die, /sys/user/slave, /sys/npc/energy, 
+/sys/npc/energy2, /sys/npc/equip, /sys/npc/rank, /sys/item/equip, 
+/sys/sys/connect, /cmd/sys/reboot, /cmd/sys/tg, /cmd/pro/x2c, /sys/user/life, 
+/sys/task/master, /sys/task/quest1, /sys/task/apprentice, /sys/npc/battle, 
+/sys/npc/heart, /sys/npc/slave, /npc/war/0002, /cmd/gm/gonggao, ... done.
+
+Initializations complete.
+
+Open connection port: 8001 

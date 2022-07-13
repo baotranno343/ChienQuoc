@@ -1,0 +1,32 @@
+inh/user/inventory,
+
+
+cmd/user/move:
+	if (item->get_item_type() == ITEM_TYPE_DAKHAM)
+				{
+
+					notify(sprintf("Bạn đã khảm %s vào %s ", item->get_name(), item2->get_name()));
+					item2->set("lo_duc", "h1,h2,h3");
+
+					send_user(me, "%c%d%c", 0x31, getoid(item2), 0);
+					item->remove_from_user();
+					destruct(item);
+					return 1;
+				}
+
+
+
+
+
+
+sys/item/item
+	if (item->get("lo_duc"))
+	{
+		//	result += sprintf("%s", item->get("lo_duc"));
+		tachlo1 = explode(item->get("lo_duc"), ",");
+		for (i = 0; i < 3; i++)
+		{
+			tachlo2 = explode(tachlo1[i], ":");
+			result += sprintf("Lỗ %d %d ", i, to_int(tachlo2[1]));
+		}
+	}

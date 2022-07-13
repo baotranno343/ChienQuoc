@@ -1,0 +1,6 @@
+#/inh/user/list.c
+Effect ({})
+SaveDatabase ([])
+SaveDbase2 (["2":(["photo":1,"name":"dawdaw","back2c":0,"gold":0,"weapon":573,"hairc":0,"weaponc":0,"back2":0,"armor":10003,"backc":0,"armorc":0,"level":60,"number":2,"family":"Thục Sơn","weaponc2":0,"back":0,"shape":10003,"hair":1,]),"1":(["photo":1,"name":"Tads","back2c":0,"gold":0,"weapon":3134,"hairc":0,"weaponc":0,"back2":0,"armor":10008,"backc":0,"armorc":0,"level":60,"number":1,"family":"Mao Sơn","weaponc2":1232,"back":0,"shape":10008,"hair":1,]),"3":(["photo":1,"name":"ADM","back2c":0,"gold":0,"weapon":63,"hairc":0,"weaponc":0,"back2":0,"armor":10001,"backc":0,"armorc":1107837448,"level":40,"number":6,"family":"","weaponc2":0,"back":0,"shape":10001,"hair":1,]),"4":(["photo":1,"name":"dqwads","back2c":0,"gold":0,"weapon":63,"hairc":0,"weaponc":0,"back2":0,"armor":10001,"backc":0,"armorc":1107837448,"level":40,"number":7,"family":"","weaponc2":0,"back":0,"shape":10001,"hair":1,]),])
+HuynhDe ([])
+Owner "admin"

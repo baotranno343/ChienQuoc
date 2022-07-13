@@ -1,0 +1,459 @@
+/sys/party/guess_true_tiger
+data/wg_national_ex
+Thiên Sứ Trao Đổi
+talk
+bonus
+tiger
+
+
+
+Thật Giả Hổ Vương \ntalk %x# tiger.1\n
+ :\n Bạn có ý kiến nào thú vị đều có thể giaocho tôi để đổi lấy phần thưởng! Phần thưởng ở chỗ tôi vô cùng phong phú và đadạng!\n
+Mua Đại Lễ Bao Quốc Khánh \ntalk %x# bonus.43\n
+Nhận Đại Lễ Bao của Tinh Linh Mèo \ntalk %x# bonus.34\n
+Nhận Đại Lễ Bao Trường Lưới \ntalk %x# bonus.34\n
+Nhận túi quà tân thủ \ntalk %x# bonus.34\n
+Nhận quà tu vị \ntalk %x# bonus.36\n
+%c%c%w%s
+
+Quả bóng bốn màu\ntalk %x# bonus.1\n
+Đổi danh hiệu Hoàng Kim Thánh Y\ntalk %x#bonus.32\n
+Kiểm tra điểm số tích lũy nhiệm vụ của tôi\ntalk %x# bonus.33\n
+Rời khỏi
+guess_true_tiger
+guess_true_tiger_fight
+guess_true_tiger
+Ngươi quá lợi hại, đã qua được 6 ải, nhận được 100 Vạn Chiến quốc tệ thêm vô vàn phần thưởng phong phú!
+Ngươi đã vượt qua %d ải, nhận được %s Chiến quốc tệ cùng
+%s
+Phần Thưởng Danh Hiệu.
+Ngươi hết thảy qua %d Quan, có thể nhận lấy
+%s
+Phần Thưởng Danh Hiệu.
+%c%c%w%s
+%s: \n%s\n
+Nhận lấy phần thưởng \ntalk %x# tiger.2\n
+Rời khỏi
+%c%c%w%s
+%s: \n Sao ngươi không thử vượt ải?\n
+Rời khỏi
+,
+
+%c%s
+Tiền tài của ngàu tăng lên %s.
+guess_true_tiger
+%c%c%w%s
+%s: \n   Ngươi đã có danh hiệu này!\n
+Rời khỏi
+%c%s
+Ngươi đã đổi danh hiệu  %s.
+
+
+
+talk
+%c%c%w%s
+%s: \n   Gần đây quái vật thường xuyên chiếm lấy ruộng đất của dân để làm sânđá bóng, làm sao chúng ta có thể đứng nhìn đây ! rất nhiều quái vật mang theorất nhiều loại cầu, nếu chúng ta có thể chiếm lấy cầu của đám quái này sẽ cóthể gìn giữ sân vườn của dân chúng, nếu bạn có Hắc Cầu, Lam Cầu, Hồng Cầu,Hoa Cầu có thể đến chỗ ta đổi thưởng !!\n
+Hắc Cầu đổi giải thưởng ngẫu nhiên\ntalk%x# bonus.2\n
+Lam Cầu đổi giải thưởng ngẫu nhiên\ntalk%x# bonus.7\n
+Hồng Cầu đổi giải thưởng ngẫu nhiên\ntalk%x# bonus.12\n
+Hoa Cầu đổi giải thưởng ngẫu nhiên\ntalk%x# bonus.17\n
+Hắc Cầu + Lam Cầu đổi Tàng Bảo Đồ\ntalk%x# bonus.22\n
+Hắc Cầu + Lam Cầu + Hồng Cầu đổi Tử SâmĐơn\ntalk %x# bonus.24\n
+Hắc Cầu + Lam Cầu + Hồng Cầu + Hoa Cầuđổi trang bị Hoàng Kim\ntalk %x# bonus.26\n
+Hắc Cầu + Lam Cầu đổi phần thưởng ngẫunhiên\ntalk %x# bonus.28\n
+Hắc Cầu + Lam Cầu + Hồng Cầu đổi phầnthưởng ngẫu nhiên\ntalk %x# bonus.30\n
+Trở Về
+%c%c%w%s
+%s: \n   Bạn có thể dùng Hắc Cầu đổi thưởng : \n
+Một Hắc Cầu đổi 5 Hồi Bang Phù\ntalk %x#bonus.3\n
+Một Hắc Cầu đổi 10 Phi Hành Phù\ntalk %x#bonus.5\n
+Rời khỏi
+%c%c%w%s
+%s: \n   Xác nhận muốn đổi 1 Hắc Cầu lấy 5 Hồi Bang Phù phải không ?\n
+Xác nhận\ntalk %x# bonus.4\n
+Rời khỏi
+Hắc Cầu
+%c%c%w%s
+%s: \n   Trên người không có Cầu, hãy thu thập rồi lại đến đổi thưởng !\n
+Rời khỏi
+%c%c%w%s
+%s: \n   Hành trang không đủ chỗ, vui lòng thu dọn lại hành trang !\n
+Rời khỏi
+item/std/0410
+%c%s
+Bạn dùng một Hắc Cầu đổi 5 Hồi Bang Phù
+%c%c%w%s
+%s: \n   Bạn muốn đổi một Hắc Cầu lấy 10 Phi Hành Phù phải không ?\n
+Xác nhận\ntalk %x# bonus.6\n
+Rời khỏi
+Hắc Cầu
+%c%c%w%s
+%s: \n   Trên người không có Cầu, hãy thu thập rồi lại đến đổi thưởng !\n
+Rời khỏi
+%c%c%w%s
+%s: \n   Hành trang không đủ chỗ, vui lòng thu dọn lại hành trang !\n
+Rời khỏi
+item/std/0409
+%c%s
+Bạn dùng một Hắc Cầu đổi 10 Phi Hành Phù
+%c%c%w%s
+%s: \n   Bạn có thể dùng Lam Cầu đổi thưởng : \n
+Một Lam Cầu đổi Tàng Bảo Đồ\ntalk %x#bonus.8\n
+Một Lam Cầu đổi 10 Hạt Lạc Hoàn\ntalk %x#bonus.10\n
+Rời khỏi
+%c%c%w%s
+%s: \n   Bạn muốn dùng một Lam Cầu đổi Tàng Bảo Đồ phải không ?\n
+Xác nhận\ntalk %x# bonus.9\n
+Rời khỏi
+Lam Cầu
+%c%c%w%s
+%s: \n   Trên người không có Cầu, hãy thu thập rồi lại đến đổi thưởng !\n
+Rời khỏi
+%c%c%w%s
+%s: \n   Hành trang không đủ chỗ, vui lòng thu dọn lại hành trang !\n
+Rời khỏi
+item/std/8000
+%c%s
+Bạn dùng một Lam Cầu đổi Tàng Bảo Đồ
+%c%c%w%s
+%s: \n   Bạn muốn dùng một Lam Cầu đổi 10 Hạc Lạc Hoàn không ?\n
+Xác nhận\ntalk %x# bonus.11\n
+Rời khỏi
+Lam Cầu
+%c%c%w%s
+%s: \n   Trên người không có Cầu, hãy thu thập rồi lại đến đổi thưởng !\n
+Rời khỏi
+%c%c%w%s
+%s: \n   Hành trang không đủ chỗ, vui lòng thu dọn lại hành trang !\n
+Rời khỏi
+item/91/9101
+%c%s
+Bạn dùng một Lam Cầu đổi 10 Hạc Lạc Hoàn
+%c%c%w%s
+%s: \n   Bạn có thể dùng một Hồng Cầu để đổi thưởng :\n
+Trong 1 giờ gia tăng tối đa 200 điểm KhíHuyết\ntalk %x# bonus.13\n
+Trong 1 giờ gia tăng tối đa 200 điểm PhápLực\ntalk %x# bonus.15\n
+Rời khỏi
+%c%c%w%s
+%s: \n   Bạn muốn trong 1 giờ gia tăng 200 điểm Khí Huyết phải không ?\n
+Xác nhận\ntalk %x# bonus.14\n
+Rời khỏi
+Hồng Cầu
+%c%c%w%s
+%s: \n   Trên người không có Cầu, hãy thu thập rồi lại đến đổi thưởng !\n
+Rời khỏi
+%c%s
+Tạm thời bạn đã có hiệu lực
+%c%w%w%c
+%c%s
+Bạn dùng một Hồng Cầu đổi Gia tăng 200điểm Khí Huyết trong 1 giờ
+%c%c%w%s
+%s: \n   Bạn muốn trong 1 giò gia tăng 200 điểm Pháp Lực phải không ?\n
+Xác nhận\ntalk %x# bonus.16\n
+Rời khỏi
+Hồng Cầu
+%c%c%w%s
+%s: \n   Trên người không có Cầu, hãy thu thập rồi lại đến đổi thưởng !\n
+Rời khỏi
+%c%s
+Tạm thời bạn đã có hiệu lực
+%c%w%w%c
+%c%s
+Bạn dùng một Hồng Cầu đổi Gia tăng 200điểm Pháp Lực trong 1 giờ
+%c%c%w%s
+%s: \n   Bạn có thể dùng một Hoa Cầu đổi thưởng :\n
+Trong một giờ gia tăng 100 điểm NgoạiCông\ntalk %x# bonus.18\n
+Trong một giờ gia tăng 100 điểm NộiCông\ntalk %x# bonus.20\n
+Rời khỏi
+%c%c%w%s
+%s: \n   Bạn muốn trong một giờ gia tăng 100 điểm Ngoại Công phải không ?\n
+Xác nhận\ntalk %x# bonus.19\n
+Rời khỏi
+Hoa Cầu
+%c%c%w%s
+%s: \n   Trên người không có Cầu, hãy thu thập rồi lại đến đổi thưởng !\n
+Rời khỏi
+%c%s
+Tạm thời bạn đã có hiệu lực
+%c%w%w%c
+%c%s
+Bạn dùng Hoa Cầu đổi Gia tăng 100 điểmNgoại Công trong 1 giờ
+%c%c%w%s
+%s: \n   Bạn muốn dùng một Hoa Cầu gia tăng 100 điểm Nội Công phải không ?\n
+Xác nhận\ntalk %x# bonus.21\n
+Rời khỏi
+Hoa Cầu
+%c%c%w%s
+%s: \n   Trên người không có Cầu, hãy thu thập rồi lại đến đổi thưởng !\n
+Rời khỏi
+%c%s
+Tạm thời bạn đã có hiệu lực
+%c%w%w%c
+%c%s
+Bạn dùng Hoa Cầu đổi Gia tăng Nội Công100 điểm trong 1 giờ
+%c%c%w%s
+%s: \n   Bạn muốn đổi một Hắc Cầu và một Lam Cầu đổi 2 Tàng Bảo Đồ phải không?\n
+Xác nhận\ntalk %x# bonus.23\n
+Rời khỏi
+Lam Cầu
+%c%c%w%s
+%s: \n   Trên người không có Cầu, hãy thu thập rồi lại đến đổi thưởng !\n
+Rời khỏi
+Hắc Cầu
+%c%c%w%s
+%s: \n   Trên người không có Cầu, hãy thu thập rồi lại đến đổi thưởng !\n
+Rời khỏi
+%c%c%w%s
+%s: \n   Hành trang không đủ chỗ, vui lòng thu dọn lại hành trang !\n
+Rời khỏi
+item/std/8000
+item/std/8000
+%c%s
+Bạn đổi Hắc Cầu và Lam Cầu lấy 2 Tàng BảoĐồ
+%c%c%w%s
+%s: \n   Bạn muốn đổi một Hắc Cầu một Lam Cầu môt Hồng Cầu đổi Tử Sâm Đơn phảikhông ?\n
+Xác nhận\ntalk %x# bonus.25\n
+Rời khỏi
+Lam Cầu
+%c%c%w%s
+%s: \n   Trên người không có Cầu, hãy thu thập rồi lại đến đổi thưởng !\n
+Rời khỏi
+Hắc Cầu
+%c%c%w%s
+%s: \n   Trên người không có Cầu, hãy thu thập rồi lại đến đổi thưởng !\n
+Rời khỏi
+Hồng Cầu
+%c%c%w%s
+%s: \n   Trên người không có Cầu, hãy thu thập rồi lại đến đổi thưởng !\n
+Rời khỏi
+%c%c%w%s
+%s: \n   Hành trang không đủ chỗ, vui lòng thu dọn lại hành trang !\n
+Rời khỏi
+item/91/9167
+%c%s
+Bạn đổi một Hồng Cầu một Lam Cầu một HắcCầu lấy Tử Sâm Đơn
+Chúc mừng 
+%s
+ nhận được phẩn thưởng 
+%s
+%c%c%w%s
+%s: \n   Bạn muốn dùng một Lam Cầu một Hắc Cầu một Hồng Cầu một Hoa Cầu đổitrang bị Hoàng Kim phải không ?\n
+Xác nhận\ntalk %x# bonus.27\n
+Rời khỏi
+Lam Cầu
+%c%c%w%s
+%s: \n   Trên người không có Cầu, hãy thu thập rồi lại đến đổi thưởng !\n
+Rời khỏi
+Hắc Cầu
+%c%c%w%s
+%s: \n   Trên người không có Cầu, hãy thu thập rồi lại đến đổi thưởng !\n
+Rời khỏi
+Hồng Cầu
+%c%c%w%s
+%s: \n   Trên người không có Cầu, hãy thu thập rồi lại đến đổi thưởng !\n
+Rời khỏi
+Hoa Cầu
+%c%c%w%s
+%s: \n   Trên người không có Cầu, hãy thu thập rồi lại đến đổi thưởng !\n
+Rời khỏi
+%c%c%w%s
+%s: \n   Hành trang không đủ chỗ, vui lòng thu dọn lại hành trang !\n
+Rời khỏi
+
+%c%s
+Bạn dùng Lam Cầu, Hắc Cầu, Hồng Cầu, HoaCầu đổi trang bị Hoàng Kim: %s
+Chúc mừng 
+%s
+ nhận được phần thưởng 
+%s
+%c%c%w%s
+%s: \n   Bạn muốn dùng một Hắc Cầu một Lam Cầu đổi phần thưởng ngẫu nhiên phảikhông ?\n
+Xác nhận\ntalk %x# bonus.29\n
+Rời khỏi
+Lam Cầu
+%c%c%w%s
+%s: \n   Trên người không có Cầu, hãy thu thập rồi lại đến đổi thưởng !\n
+Rời khỏi
+Hắc Cầu
+%c%c%w%s
+%s: \n   Trên người không có Cầu, hãy thu thập rồi lại đến đổi thưởng !\n
+Rời khỏi
+%c%c%w%s
+%s: \n   Hành trang không đủ chỗ, vui lòng thu dọn lại hành trang !\n
+Rời khỏi
+%d lượng
+%d kinh nghiệm
+%d tiềm năng
+item/std/6003
+%s
+item/44/4488
+%s
+item/91/9125
+%s
+%s
+item/91/9160
+%s
+%s
+item/91/9161
+%s
+%s
+%c%s
+Bạn dùng một Hắc Cầu một Lam Cầu đổi %s
+
+Chúc mừng 
+%s
+ nhận được phần thưởng 
+%s
+%c%c%w%s
+%s: \n   Bạn muốn dùng một Lam Cầu, một Hắc Cầu, một Hồng Cầu đổi phần thưởngngẫu nhiên phải không ?\n
+Xác nhận\ntalk %x# bonus.31\n
+Rời khỏi
+Lam Cầu
+%c%c%w%s
+%s: \n   Trên người không có Cầu, hãy thu thập rồi lại đến đổi thưởng !\n
+Rời khỏi
+Hắc Cầu
+%c%c%w%s
+%s: \n   Trên người không có Cầu, hãy thu thập rồi lại đến đổi thưởng !\n
+Rời khỏi
+Hồng Cầu
+%c%c%w%s
+%s: \n   Trên người không có Cầu, hãy thu thập rồi lại đến đổi thưởng !\n
+Rời khỏi
+%c%c%w%s
+%s: \n   Hành trang không đủ chỗ, vui lòng thu dọn lại hành trang !\n
+Rời khỏi
+%s
+item/91/9167
+%s
+item/91/9162
+%s
+item/91/9163
+%s
+item/91/9164
+%s
+item/91/9165
+%s
+
+%c%s
+Bạn dùng một Lam Cầu, một Hắc Cầu, mộtHồng Cầu đổi %s
+Chúc mừng 
+%s
+ nhận được phần thưởng 
+%s
+%c%c%w%s
+ %s:\n Số lần của nhiệm vụ càng nhiều, bạn càng có thể đổi lấy danh hiệu càngcao.\n
+5 lần nhiệm vụ đổi lấy danh hiệu ThanhĐồng Thánh Đấu Sĩ\ntalk %x# bonus.1005\n
+10 lần nhiệm vụ đổi lấy danh hiệu BạchNgân Thánh Đấu Sĩ\ntalk %x# bonus.1010\n
+50 lần nhiệm vụ đổi lấy danh hiệu HoàngKim Thánh Đấu Sĩ\ntalk %x# bonus.1050\n
+100 lần nhiệm vụ đổi lấy danh hiệu HắcÁm Thánh Đấu Sĩ\ntalk %x# bonus.1100\n
+Rời khỏi
+%c%c%w%s
+ %s:\n Điểm tích lũy nhiệm vụ của bạn là %d điểm.\n
+Rời khỏi
+warrior_title
+%c%c%w%s
+%s: \n   Phần thưởng lần này chỉ đặc biệt tặng cho tân thủ, bởi vậy chỉ có
+Người chơi 10 Cấp ~39 Cấp
+mới có thể nhận lấy những phần thưởng này.\n
+Rời khỏi\n
+wg_national_new
+%c%c%w%s
+%s: \n   Làm sao? Hiệu quả của tinh thạch không tồi ~ Vũ khí sau khi tinh luyện thì khi tiêu diệt quái vật hiệu quả nhất định sẽ cao hơn.\n
+Rời khỏi\n
+%c%c%w%s
+%s: \n   Đã tới cấp 10, sẽ có những yêu cầu khác biệt về vũ khí, ta quyết định đưa ngươi 4 viên có thể tăng thêm thuộc tính cho vũ khí trang bị
+Tinh thạch
+Nếu như bạn tinh luyện 2 linh thạch có cùng thuộc tính vào vũ khí hoặc áo giáp theo thứ tự từ thấp đến cao, bạn sẽ thấy sức mạnh của chúng được nâng cao hơn rất nhiều ~ Hãy nhớ rằng, những linh thạch này
+Chỉ trang bị
+từ cấp 20 trở xuống.\n    Ngoại trừ những này tinh thạch, Song Ngư tiểu thư sẽ bầu bạn với ngươi.\n
+Nhận lấy \ntalk %x# bonus.35\n
+wg_national_new
+%c%c%w%s
+%s: \n   Trên người ngươi không có đủ chỗ trống, yêu cầu dọn dẹp hành trang ~\n
+Rời khỏi
+item/08/0831
+item/93/9343
+item/93/9345
+item/93/9343
+item/93/9345
+wg_national_new
+%c%s
+Ngài nhận lấy bốn viên tinh thạch cùng một Sủng Vật Song Ngư
+online_rank.level
+%c%c%w%s
+%s: \n   Tu vị của ngài đẳng cấp chưa đủ 27 Cấp, đạt tới 27 Cấp hẵng đến nhận.\n
+Rời khỏi\n
+wg_national_new
+%c%c%w%s
+%s: \n   Ngài đã từng nhận Sủng Vật Song Ngư \n
+Rời khỏi\n
+%c%c%w%s
+%s: \n   Để đáp lễ những người chơi đã ủng hộ, chỉ cần tu vị đẳng cấp đạt đến 27 Cấp, có thể tới chỗ ta nhận lấy một con Sủng Vật Song Ngư.\n
+Nhận lấy \ntalk %x# bonus.37\n
+wg_national_new
+online_rank.level
+%c%c%w%s
+%s: \n   Trên người ngươi không có đủ chỗ trống, yêu cầu dọn dẹp hành trang ~\n
+Rời khỏi
+item/08/0831
+wg_national_new
+%c%s
+Ngài nhận lấy một cái Sủng Vật Song Ngư
+%c%c%w%s
+%s: \n    Đại lễ bao bao gồm các vật phẩm: 1 Can Tương Bảo Thạch, 1 Thẻ Niên Thú, 1 Lỗ Ban Bảo Thạch, 1 chìa khoá tử kim, 1 Mãn thiên quá hải phù, 1 Bảo Đề Phù, 1 Chiến Quốc Lệnh, 1 Chi Ma Khai Môn, 1 Tế thế bảo ngọc, 1 Thượng Phương Bảo Kiếm, 1 Nhân Sâm Vương, 1 cuốn cẩm nang và 1 ma lực chùy, còn có 1 bao lì xì 200 nguyên bảo, ta lấy ngươi 390 Nguyên Bảo thôi, xác nhận chứ?\n
+Quả nhiên là vật phâm quý, ta phải mua ngay \ntalk %x# bonus.42\n
+Để ta suy nghĩ thêm
+%c%c%w%s
+%s: \n   Tất cả vật phẩm trong gói quà này đều không khóa, có thể tặng bằng hữu, để ngươi cùng bằng hữu có thể vui vẻ đón Quốc Khánh. Đồng thời cũng có thể giao dịch. Bởi vì là rất trân quý lễ vật, cho nên sẽ chỉ ở trong lúc Quốc Khánh mới được bán.\n
+Ta hiểu rồi
+%c%c%w%s
+%s: \n    Đại lễ bao bao gồm các vật phẩm: 1 Can Tương Bảo Thạch, 1 Thẻ Niên Thú, 1 Lỗ Ban Bảo Thạch, 1 chìa khoá tử kim, 1 Mãn thiên quá hải phù, 1 Bảo Đề Phù, 1 Chiến Quốc Lệnh, 1 Chi Ma Khai Môn, 1 Tế thế bảo ngọc, 1 Thượng Phương Bảo Kiếm, 1 Nhân Sâm Vương, 1 cuốn cẩm nang và 1 ma lực chùy, còn có 1 bao lì xì 200 nguyên bảo.\n
+Xem ra lễ vật rất phong phú
+%c%c%w%s
+%s: \n   Tốt, nhưng những món quà này chỉ bán vào dịp Quốc Khánh, bỏ qua thì thật là đáng tiếc. Có muốn ta giữ lại cho ngươi 1 món hay không? hehe!\n
+Rời khỏi
+%c%s
+Yêu cầu của ngài đang được xử lý, xin hãy chờ đợi.
+%x# bonus
+%s:80\n
+GET http:/
+/%s/querybalance.php?t=%s&u=%d\r\n
+:\n    Thu sắc tiệm nồng, hỷ khánh tiệm hiện. Trung thu ngọt ngào vừa trôi qua, Quốc Khánh lại từ từ tiến tới. Khắp chốn mừng vui, thế giới Chiến Quốc quả thực vô cùng nhộn nhịp. Vì cái gì đây? Cũng bởi vì trong tay ta có Đại Lễ Bao Phong Cuồng Quốc Khánh! Đang là thời gian ưu đãi, mỗi bộ Đại Lễ Bao chỉ bán với giá 390 Nguyên bảo. Hây hây hây, không nên chen lấn, xếp hàng từng người từng người thôi.\n
+Nhanh tay nào, lập tức mua \ntalk %x# bonus.38\n
+Ta muốn hiểu rõ hơn \ntalk %x# bonus.39\n
+Ta muốn thấy bên trong gói quà có thứ gì \ntalk %x# bonus.40\n
+Đợi ta nạp thẻ \ntalk %x# bonus.41\n
+%c%c%w%s
+%s:
+Rời khỏi
+A009
+A010
+A011
+A012
+%c%c%w%s
+%s: \n   Bạn đã có danh hiệu này !\n
+Rời khỏi
+warrior_title
+%c%c%w%s
+%s: \n   Điểm tích luỹ không đủ để đổi danh hiệu !\n
+Rời khỏi
+warrior_title
+%c%s
+Bạn đổi thành công danh hiệu %s 
+Trong 1 giờ gia tăng 200 điểm Khí Huyết\n
+Trong 1 giờ gia tăng 200 điểm Pháp Lực\n
+Trong 1 giờ gia tăng 100 điểm NgoạiCông\n
+Trong 1 giờ gia tăng 100 điểm Nội Công\n
+%s-%s
+%c%s
+Cách thức sai!
+%c%s
+Thời gian sai!
+%c%s
+Thời gian sai!!
+Hoạt động lễ vật Quốc Khánh mở ra: %s!
+%c%s
+Hoạt động lễ vật Quốc Khánh mở ra!
+%c%s
+Hoạt động lễ vật Quốc Khánh đóng lại!
